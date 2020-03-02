@@ -1,5 +1,4 @@
 ## Project Info 
-<hr> 
 In this project, we analyzed the trends after CPDB (Citizens Police Database) went public and compared it with the trends before the release of CPDB. We used the following tools:
 * Relational Analytics - PostgresSQL
 * Visualizations - Tableau, D3.js
